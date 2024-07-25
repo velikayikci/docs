@@ -2,7 +2,7 @@
 
 ## Overview
 
-Flowfy is self-improving low-code/no-code Business Application Development Platform. Basically, it's a live drag-and-drop development platform for business applications. Flowfy enables you to create applications for your business faster than ever. It is easy to use and it enables development with very short learning curve even for unexperienced business users.
+Flowfy is Low-Code/No-Code Business Application Development Platform. Flowfy enables you to quickly build and deploy web apps for your business. Connect APIs and databases, assemble user interfaces with drag-and-drop components, write queries that read and write data, and perform complex logic and transformations using JavaScript.
 
 Flowfy is different than many other platforms because it blends best sides of the Low code development. It is very easy and intuitive while providing powerful environment for more complex applications.
 
